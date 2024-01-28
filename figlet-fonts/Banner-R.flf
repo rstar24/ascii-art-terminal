@@ -1,0 +1,2494 @@
+flf2a$ 8 7 54 0 12 0 64 185
+banner.flf version 2 by Ryan Youck (youck@cs.uregina.ca)
+(From a unix program called banner)
+I am not responsible for use of this font  
+Thanks to Glenn Chappell for his help
+Katakana characters by Vinney Thai <ssfiit@eris.cs.umb.edu>
+Cyrillic characters from "koi8x8" BDF font.
+Date: August 11, 1994
+
+Merged by John Cowan <cowan@ccil.org>
+Modified by Paul Burton <solution@earthlink.net> 12/96 to include new parameter
+supported by FIGlet and FIGWin.  May also be slightly modified for better use
+of new full-width/kern/smush alternatives, but default output is NOT changed.
+ $ $@
+ $ $@
+ $ $@
+ $ $@
+ $ $@
+ $ $@
+ $ $@
+ $ $@@
+ RRR$@
+ RRR$@
+ RRR$@
+  R $@
+    $@
+ RRR$@
+ RRR$@
+    $@@
+ RRR RRR$@
+ RRR RRR$@
+  R   R $@
+ $      $@
+ $      $@
+        $@
+        $@
+        $@@
+   R R  $@
+   R R  $@
+ RRRRRRR$@
+   R R  $@
+ RRRRRRR$@
+   R R  $@
+   R R  $@
+        $@@
+  RRRRR $@
+ R  R  R$@
+ R  R   $@
+  RRRRR $@
+    R  R$@
+ R  R  R$@
+  RRRRR $@
+        $@@
+ RRR   R$@
+ R R  R $@
+ RRR R  $@
+    R   $@
+   R RRR$@
+  R  R R$@
+ R   RRR$@
+        $@@
+   RR   $@
+  R  R  $@
+   RR   $@
+  RRR   $@
+ R   R R$@
+ R    R $@
+  RRR  R$@
+        $@@
+ RRR$@
+ RRR$@
+  R $@
+ R  $@
+    $@
+    $@
+    $@
+    $@@
+   RR$@
+  R  $@
+ R   $@
+ R   $@
+ R   $@
+  R  $@
+   RR$@
+     $@@
+ RR  $@
+   R $@
+    R$@
+    R$@
+    R$@
+   R $@
+ RR  $@
+     $@@
+        $@
+  R   R $@
+   R R  $@
+ RRRRRRR$@
+   R R  $@
+  R   R $@
+        $@
+        $@@
+      $@
+   R  $@
+   R  $@
+ RRRRR$@
+   R  $@
+   R  $@
+      $@
+      $@@
+    $@
+    $@
+    $@
+    $@
+ RRR$@
+ RRR$@
+  R $@
+ R  $@@
+      $@
+      $@
+      $@
+ RRRRR$@
+      $@
+      $@
+      $@
+      $@@
+    $@
+    $@
+    $@
+    $@
+ RRR$@
+ RRR$@
+ RRR$@
+    $@@
+       R$@
+      R $@
+     R  $@
+    R   $@
+   R    $@
+  R     $@
+ R      $@
+        $@@
+   RRR  $@
+  R   R $@
+ R     R$@
+ R     R$@
+ R     R$@
+  R   R $@
+   RRR  $@
+        $@@
+   R  $@
+  RR  $@
+ R R  $@
+   R  $@
+   R  $@
+   R  $@
+ RRRRR$@
+      $@@
+  RRRRR $@
+ R     R$@
+       R$@
+  RRRRR $@
+ R      $@
+ R      $@
+ RRRRRRR$@
+        $@@
+  RRRRR $@
+ R     R$@
+       R$@
+  RRRRR $@
+       R$@
+ R     R$@
+  RRRRR $@
+        $@@
+ R      $@
+ R    R $@
+ R    R $@
+ R    R $@
+ RRRRRRR$@
+      R $@
+      R $@
+        $@@
+ RRRRRRR$@
+ R      $@
+ R      $@
+ RRRRRR $@
+       R$@
+ R     R$@
+  RRRRR $@
+        $@@
+  RRRRR $@
+ R     R$@
+ R      $@
+ RRRRRR $@
+ R     R$@
+ R     R$@
+  RRRRR $@
+        $@@
+ RRRRRRR$@
+ R    R $@
+     R  $@
+    R   $@
+   R    $@
+   R    $@
+   R    $@
+        $@@
+  RRRRR $@
+ R     R$@
+ R     R$@
+  RRRRR $@
+ R     R$@
+ R     R$@
+  RRRRR $@
+        $@@
+  RRRRR $@
+ R     R$@
+ R     R$@
+  RRRRRR$@
+       R$@
+ R     R$@
+  RRRRR $@
+        $@@
+  R $@
+ RRR$@
+  R $@
+    $@
+  R $@
+ RRR$@
+  R $@
+    $@@
+    $@
+ RRR$@
+ RRR$@
+    $@
+ RRR$@
+ RRR$@
+  R $@
+ R  $@@
+    R$@
+   R $@
+  R  $@
+ R   $@
+  R  $@
+   R $@
+    R$@
+     $@@
+      $@
+      $@
+ RRRRR$@
+      $@
+ RRRRR$@
+      $@
+      $@
+      $@@
+ R   $@
+  R  $@
+   R $@
+    R$@
+   R $@
+  R  $@
+ R   $@
+     $@@
+  RRRRR $@
+ R     R$@
+       R$@
+    RRR $@
+    R   $@
+        $@
+    R   $@
+        $@@
+  RRRRR $@
+ R     R$@
+ R RRR R$@
+ R RRR R$@
+ R RRRR $@
+ R      $@
+  RRRRR $@
+        $@@
+    R   $@
+   R R  $@
+  R   R $@
+ R     R$@
+ RRRRRRR$@
+ R     R$@
+ R     R$@
+        $@@
+ RRRRRR $@
+ R     R$@
+ R     R$@
+ RRRRRR $@
+ R     R$@
+ R     R$@
+ RRRRRR $@
+        $@@
+  RRRRR $@
+ R     R$@
+ R      $@
+ R      $@
+ R      $@
+ R     R$@
+  RRRRR $@
+        $@@
+ RRRRRR $@
+ R     R$@
+ R     R$@
+ R     R$@
+ R     R$@
+ R     R$@
+ RRRRRR $@
+        $@@
+ RRRRRRR$@
+ R      $@
+ R      $@
+ RRRRR  $@
+ R      $@
+ R      $@
+ RRRRRRR$@
+        $@@
+ RRRRRRR$@
+ R      $@
+ R      $@
+ RRRRR  $@
+ R      $@
+ R      $@
+ R      $@
+        $@@
+  RRRRR $@
+ R     R$@
+ R      $@
+ R  RRRR$@
+ R     R$@
+ R     R$@
+  RRRRR $@
+        $@@
+ R     R$@
+ R     R$@
+ R     R$@
+ RRRRRRR$@
+ R     R$@
+ R     R$@
+ R     R$@
+        $@@
+ RRR$@
+  R $@
+  R $@
+  R $@
+  R $@
+  R $@
+ RRR$@
+    $@@
+       R$@
+       R$@
+       R$@
+       R$@
+ R     R$@
+ R     R$@
+  RRRRR $@
+        $@@
+ R    R$@
+ R   R $@
+ R  R  $@
+ RRR   $@
+ R  R  $@
+ R   R $@
+ R    R$@
+       $@@
+ R      $@
+ R      $@
+ R      $@
+ R      $@
+ R      $@
+ R      $@
+ RRRRRRR$@
+        $@@
+ R     R$@
+ RR   RR$@
+ R R R R$@
+ R  R  R$@
+ R     R$@
+ R     R$@
+ R     R$@
+        $@@
+ R     R$@
+ RR    R$@
+ R R   R$@
+ R  R  R$@
+ R   R R$@
+ R    RR$@
+ R     R$@
+        $@@
+ RRRRRRR$@
+ R     R$@
+ R     R$@
+ R     R$@
+ R     R$@
+ R     R$@
+ RRRRRRR$@
+        $@@
+ RRRRRR $@
+ R     R$@
+ R     R$@
+ RRRRRR $@
+ R      $@
+ R      $@
+ R      $@
+        $@@
+  RRRRR $@
+ R     R$@
+ R     R$@
+ R     R$@
+ R   R R$@
+ R    R $@
+  RRRR R$@
+        $@@
+ RRRRRR $@
+ R     R$@
+ R     R$@
+ RRRRRR $@
+ R   R  $@
+ R    R $@
+ R     R$@
+        $@@
+  RRRRR $@
+ R     R$@
+ R      $@
+  RRRRR $@
+       R$@
+ R     R$@
+  RRRRR $@
+        $@@
+ RRRRRRR$@
+    R   $@
+    R   $@
+    R   $@
+    R   $@
+    R   $@
+    R   $@
+        $@@
+ R     R$@
+ R     R$@
+ R     R$@
+ R     R$@
+ R     R$@
+ R     R$@
+  RRRRR $@
+        $@@
+ R     R$@
+ R     R$@
+ R     R$@
+ R     R$@
+  R   R $@
+   R R  $@
+    R   $@
+        $@@
+ R     R$@
+ R  R  R$@
+ R  R  R$@
+ R  R  R$@
+ R  R  R$@
+ R  R  R$@
+  RR RR $@
+        $@@
+ R     R$@
+  R   R $@
+   R R  $@
+    R   $@
+   R R  $@
+  R   R $@
+ R     R$@
+        $@@
+ R     R$@
+  R   R $@
+   R R  $@
+    R   $@
+    R   $@
+    R   $@
+    R   $@
+        $@@
+ RRRRRRR$@
+      R $@
+     R  $@
+    R   $@
+   R    $@
+  R     $@
+ RRRRRRR$@
+        $@@
+ RRRRR$@
+ R    $@
+ R    $@
+ R    $@
+ R    $@
+ R    $@
+ RRRRR$@
+      $@@
+ R      $@
+  R     $@
+   R    $@
+    R   $@
+     R  $@
+      R $@
+       R$@
+        $@@
+ RRRRR$@
+     R$@
+     R$@
+     R$@
+     R$@
+     R$@
+ RRRRR$@
+      $@@
+   R  $@
+  R R $@
+ R   R$@
+      $@
+      $@
+      $@
+      $@
+      $@@
+        $@
+        $@
+        $@
+        $@
+        $@
+        $@
+        $@
+ RRRRRRR$@@
+ RRR$@
+ RRR$@
+  R $@
+   R$@
+    $@
+    $@
+    $@
+    $@@
+       $@
+   RR  $@
+  R  R $@
+ R    R$@
+ RRRRRR$@
+ R    R$@
+ R    R$@
+       $@@
+       $@
+ RRRRR $@
+ R    R$@
+ RRRRR $@
+ R    R$@
+ R    R$@
+ RRRRR $@
+       $@@
+       $@
+  RRRR $@
+ R    R$@
+ R     $@
+ R     $@
+ R    R$@
+  RRRR $@
+       $@@
+       $@
+ RRRRR $@
+ R    R$@
+ R    R$@
+ R    R$@
+ R    R$@
+ RRRRR $@
+       $@@
+       $@
+ RRRRRR$@
+ R     $@
+ RRRRR $@
+ R     $@
+ R     $@
+ RRRRRR$@
+       $@@
+       $@
+ RRRRRR$@
+ R     $@
+ RRRRR $@
+ R     $@
+ R     $@
+ R     $@
+       $@@
+       $@
+  RRRR $@
+ R    R$@
+ R     $@
+ R  RRR$@
+ R    R$@
+  RRRR $@
+       $@@
+       $@
+ R    R$@
+ R    R$@
+ RRRRRR$@
+ R    R$@
+ R    R$@
+ R    R$@
+       $@@
+  $@
+ R$@
+ R$@
+ R$@
+ R$@
+ R$@
+ R$@
+  $@@
+       $@
+      R$@
+      R$@
+      R$@
+      R$@
+ R    R$@
+  RRRR $@
+       $@@
+       $@
+ R    R$@
+ R   R $@
+ RRRR  $@
+ R  R  $@
+ R   R $@
+ R    R$@
+       $@@
+       $@
+ R     $@
+ R     $@
+ R     $@
+ R     $@
+ R     $@
+ RRRRRR$@
+       $@@
+       $@
+ R    R$@
+ RR  RR$@
+ R RR R$@
+ R    R$@
+ R    R$@
+ R    R$@
+       $@@
+       $@
+ R    R$@
+ RR   R$@
+ R R  R$@
+ R  R R$@
+ R   RR$@
+ R    R$@
+       $@@
+       $@
+  RRRR $@
+ R    R$@
+ R    R$@
+ R    R$@
+ R    R$@
+  RRRR $@
+       $@@
+       $@
+ RRRRR $@
+ R    R$@
+ R    R$@
+ RRRRR $@
+ R     $@
+ R     $@
+       $@@
+       $@
+  RRRR $@
+ R    R$@
+ R    R$@
+ R  R R$@
+ R   R $@
+  RRR R$@
+       $@@
+       $@
+ RRRRR $@
+ R    R$@
+ R    R$@
+ RRRRR $@
+ R   R $@
+ R    R$@
+       $@@
+       $@
+  RRRR $@
+ R     $@
+  RRRR $@
+      R$@
+ R    R$@
+  RRRR $@
+       $@@
+      $@
+ RRRRR$@
+   R  $@
+   R  $@
+   R  $@
+   R  $@
+   R  $@
+      $@@
+       $@
+ R    R$@
+ R    R$@
+ R    R$@
+ R    R$@
+ R    R$@
+  RRRR $@
+       $@@
+       $@
+ R    R$@
+ R    R$@
+ R    R$@
+ R    R$@
+  R  R $@
+   RR  $@
+       $@@
+       $@
+ R    R$@
+ R    R$@
+ R    R$@
+ R RR R$@
+ RR  RR$@
+ R    R$@
+       $@@
+       $@
+ R    R$@
+  R  R $@
+   RR  $@
+   RR  $@
+  R  R $@
+ R    R$@
+       $@@
+      $@
+ R   R$@
+  R R $@
+   R  $@
+   R  $@
+   R  $@
+   R  $@
+      $@@
+       $@
+ RRRRRR$@
+     R $@
+    R  $@
+   R   $@
+  R    $@
+ RRRRRR$@
+       $@@
+   RRR$@
+  R   $@
+  R   $@
+ RR   $@
+  R   $@
+  R   $@
+   RRR$@
+      $@@
+ R$@
+ R$@
+ R$@
+  $@
+ R$@
+ R$@
+ R$@
+  $@@
+ RRR  $@
+    R $@
+    R $@
+    RR$@
+    R $@
+    R $@
+ RRR  $@
+      $@@
+  RR    $@
+ R  R  R$@
+     RR $@
+        $@
+        $@
+        $@
+        $@
+        $@@
+ R  R  R$@
+   R R  $@
+  R   R $@
+ R     R$@
+ RRRRRRR$@
+ R     R$@
+ R     R$@
+        $@@
+ R     R$@
+  RRRRR $@
+ R     R$@
+ R     R$@
+ R     R$@
+ R     R$@
+  RRRRR $@
+        $@@
+ R     R$@
+        $@
+ R     R$@
+ R     R$@
+ R     R$@
+ R     R$@
+  RRRRR $@
+        $@@
+       $@
+ R    R$@
+  RRRR $@
+ R    R$@
+ RRRRRR$@
+ R    R$@
+ R    R$@
+       $@@
+       $@
+ R    R$@
+  RRRR $@
+ R    R$@
+ R    R$@
+ R    R$@
+  RRRR $@
+       $@@
+       $@
+ R    R$@
+       $@
+ R    R$@
+ R    R$@
+ R    R$@
+  RRRR $@
+       $@@
+ RRRRRR $@
+ R     R$@
+ R     R$@
+ RRRRRR $@
+ R     R$@
+ R     R$@
+ RRRRRR $@
+ R      $@@
+160  NO-BREAK SPACE
+         $@
+         $@
+         $@
+         $@
+ RRRRRRRR$@
+    RR   $@
+    RR   $@
+    RR   $@@
+169  COPYRIGHT SIGN
+ $@
+ $@
+ $@
+ $@
+ $@
+ $@
+ $@
+ $@@
+176  DEGREE SIGN
+         $@
+         $@
+         $@
+         $@
+ RRRRRRRR$@
+         $@
+         $@
+         $@@
+178  SUPERSCRIPT TWO
+    RR   $@
+    RR   $@
+    RR   $@
+    RR   $@
+ RRRRRRRR$@
+    RR   $@
+    RR   $@
+    RR   $@@
+183  MIDDLE DOT
+ RR   $@
+ RR   $@
+ RRRRR$@
+ RR   $@
+ RRRRR$@
+ RR   $@
+ RR   $@
+ RR   $@@
+196  LATIN CAPITAL LETTER A WITH DIAERESIS
+ R  R  R$@
+   R R  $@
+  R   R $@
+ R     R$@
+ RRRRRRR$@
+ R     R$@
+ R     R$@
+        $@@
+214  LATIN CAPITAL LETTER O WITH DIAERESIS
+ R     R$@
+  RRRRR $@
+ R     R$@
+ R     R$@
+ R     R$@
+ R     R$@
+  RRRRR $@
+        $@@
+220  LATIN CAPITAL LETTER U WITH DIAERESIS
+ R     R$@
+        $@
+ R     R$@
+ R     R$@
+ R     R$@
+ R     R$@
+  RRRRR $@
+        $@@
+223  LATIN SMALL LETTER SHARP S
+ RRRRRR $@
+ R     R$@
+ R     R$@
+ RRRRRR $@
+ R     R$@
+ R     R$@
+ RRRRRR $@
+ R      $@@
+228  LATIN SMALL LETTER A WITH DIAERESIS
+       $@
+ R    R$@
+  RRRR $@
+ R    R$@
+ RRRRRR$@
+ R    R$@
+ R    R$@
+       $@@
+246  LATIN SMALL LETTER O WITH DIAERESIS
+       $@
+ R    R$@
+  RRRR $@
+ R    R$@
+ R    R$@
+ R    R$@
+  RRRR $@
+       $@@
+247  DIVISION SIGN
+ RRRR $@
+ RRRR $@
+ RRRR $@
+ RRRR $@
+ RRRRR$@
+ RRRR $@
+ RRRR $@
+ RRRR $@@
+252  LATIN SMALL LETTER U WITH DIAERESIS
+       $@
+ R    R$@
+       $@
+ R    R$@
+ R    R$@
+ R    R$@
+  RRRR $@
+       $@@
+0x0401  CYRILLIC CAPITAL LETTER IO
+ RRRRRRRR$@
+ RRRRRRRR$@
+ RRRRRRRR$@
+ RRRRRRRR$@
+ RRRRRRRR$@
+ RRRRRRRR$@
+ RRRRRRRR$@
+ RRRRRRRR$@@
+0x0410  CYRILLIC CAPITAL LETTER A
+    RRRR$@
+   RR RR$@
+  RR  RR$@
+ RR   RR$@
+ RRRRRRR$@
+ RR   RR$@
+ RR   RR$@
+        $@@
+0x0411  CYRILLIC CAPITAL LETTER BE
+ RRRRRRR$@
+ RR     $@
+ RR     $@
+ RRRRRR $@
+ RR   RR$@
+ RR   RR$@
+ RRRRRR $@
+        $@@
+0x0412  CYRILLIC CAPITAL LETTER VE
+ RRRRRR $@
+ RR   RR$@
+ RR   RR$@
+ RRRRRR $@
+ RR   RR$@
+ RR   RR$@
+ RRRRRR $@
+        $@@
+0x0413  CYRILLIC CAPITAL LETTER GHE
+ RRRRRRR$@
+ RR     $@
+ RR     $@
+ RR     $@
+ RR     $@
+ RR     $@
+ RR     $@
+        $@@
+0x0414  CYRILLIC CAPITAL LETTER DE
+   RRRR $@
+  RR RR $@
+  RR RR $@
+  RR RR $@
+  RR RR $@
+ RRRRRRR$@
+ RR   RR$@
+        $@@
+0x0415  CYRILLIC CAPITAL LETTER IE
+ RRRRRRR$@
+ RR     $@
+ RR     $@
+ RRRRRR $@
+ RR     $@
+ RR     $@
+ RRRRRRR$@
+        $@@
+0x0416  CYRILLIC CAPITAL LETTER ZHE
+ RR R RR$@
+  R R R $@
+   RRR  $@
+   RRR  $@
+  R R R $@
+  R R R $@
+ RR R RR$@
+        $@@
+0x0417  CYRILLIC CAPITAL LETTER ZE
+  RRRRR $@
+ RR   RR$@
+      RR$@
+    RR  $@
+      RR$@
+ RR   RR$@
+  RRRRR $@
+        $@@
+0x0418  CYRILLIC CAPITAL LETTER I
+ RR   RR$@
+ RR  RRR$@
+ RR  RRR$@
+ RR R RR$@
+ RRR  RR$@
+ RR   RR$@
+ RR   RR$@
+        $@@
+0x0419  CYRILLIC CAPITAL LETTER SHORT I
+ RR RR R$@
+ RR   RR$@
+ RR  RRR$@
+ RR R RR$@
+ RRR  RR$@
+ RR   RR$@
+ RR   RR$@
+        $@@
+0x041A  CYRILLIC CAPITAL LETTER KA
+ RR   RR$@
+ RR  RR $@
+ RR RR  $@
+ RRRRR  $@
+ RR  RR $@
+ RR   RR$@
+ RR   RR$@
+        $@@
+0x041B  CYRILLIC CAPITAL LETTER EL
+   RRRRR$@
+  RR  RR$@
+  RR  RR$@
+  RR  RR$@
+  RR  RR$@
+  RR  RR$@
+ RR   RR$@
+        $@@
+0x041C  CYRILLIC CAPITAL LETTER EM
+ RR   RR$@
+ RR   RR$@
+ RRR RRR$@
+ RR R RR$@
+ RR   RR$@
+ RR   RR$@
+ RR   RR$@
+        $@@
+0x041D  CYRILLIC CAPITAL LETTER EN
+ RR   RR$@
+ RR   RR$@
+ RR   RR$@
+ RRRRRRR$@
+ RR   RR$@
+ RR   RR$@
+ RR   RR$@
+        $@@
+0x041E  CYRILLIC CAPITAL LETTER O
+  RRRRR $@
+ RR   RR$@
+ RR   RR$@
+ RR   RR$@
+ RR   RR$@
+ RR   RR$@
+  RRRRR $@
+        $@@
+0x041F  CYRILLIC CAPITAL LETTER PE
+ RRRRRRR$@
+ RR   RR$@
+ RR   RR$@
+ RR   RR$@
+ RR   RR$@
+ RR   RR$@
+ RR   RR$@
+        $@@
+0x0420  CYRILLIC CAPITAL LETTER ER
+ RRRRRR $@
+ RR   RR$@
+ RR   RR$@
+ RRRRRR $@
+ RR     $@
+ RR     $@
+ RR     $@
+        $@@
+0x0421  CYRILLIC CAPITAL LETTER ES
+  RRRRR $@
+ RR   RR$@
+ RR     $@
+ RR     $@
+ RR     $@
+ RR   RR$@
+  RRRRR $@
+        $@@
+0x0422  CYRILLIC CAPITAL LETTER TE
+ RRRRRR $@
+   RR   $@
+   RR   $@
+   RR   $@
+   RR   $@
+   RR   $@
+   RR   $@
+        $@@
+0x0423  CYRILLIC CAPITAL LETTER U
+ RR   RR$@
+ RR   RR$@
+ RR   RR$@
+  RRRRRR$@
+      RR$@
+ RR   RR$@
+  RRRRR $@
+        $@@
+0x0424  CYRILLIC CAPITAL LETTER EF
+    R   $@
+  RRRRR $@
+ RR R RR$@
+ RR R RR$@
+ RR R RR$@
+  RRRRR $@
+    R   $@
+        $@@
+0x0425  CYRILLIC CAPITAL LETTER HA
+ RR   RR$@
+  RR RR $@
+   RRR  $@
+   RRR  $@
+   RRR  $@
+  RR RR $@
+ RR   RR$@
+        $@@
+0x0426  CYRILLIC CAPITAL LETTER TSE
+ RR  RR $@
+ RR  RR $@
+ RR  RR $@
+ RR  RR $@
+ RR  RR $@
+ RR  RR $@
+ RRRRRRR$@
+       R$@@
+0x0427  CYRILLIC CAPITAL LETTER CHE
+ RR   RR$@
+ RR   RR$@
+ RR   RR$@
+  RRRRRR$@
+      RR$@
+      RR$@
+      RR$@
+        $@@
+0x0428  CYRILLIC CAPITAL LETTER SHA
+ RR R RR$@
+ RR R RR$@
+ RR R RR$@
+ RR R RR$@
+ RR R RR$@
+ RR R RR$@
+ RRRRRRR$@
+        $@@
+0x0429  CYRILLIC CAPITAL LETTER SHCHA
+ RR R RR$@
+ RR R RR$@
+ RR R RR$@
+ RR R RR$@
+ RR R RR$@
+ RR R RR$@
+ RRRRRRR$@
+       R$@@
+0x042A  CYRILLIC CAPITAL LETTER HARD SIGN
+ RRR    $@
+ RRR    $@
+  RR    $@
+  RRRRR $@
+  RR  RR$@
+  RR  RR$@
+  RRRRR $@
+        $@@
+0x042B  CYRILLIC CAPITAL LETTER YERU
+ RR   RR$@
+ RR   RR$@
+ RR   RR$@
+ RRRR  R$@
+ RR  R R$@
+ RR  R R$@
+ RRRR  R$@
+        $@@
+0x042C  CYRILLIC CAPITAL LETTER SOFT SIGN
+ RR     $@
+ RR     $@
+ RR     $@
+ RRRRRR $@
+ RR   RR$@
+ RR   RR$@
+ RRRRRR $@
+        $@@
+0x042D  CYRILLIC CAPITAL LETTER E
+  RRRRR $@
+ RR   RR$@
+      RR$@
+   RRRRR$@
+      RR$@
+ RR   RR$@
+  RRRRR $@
+        $@@
+0x042E  CYRILLIC CAPITAL LETTER YU
+ RR  RR $@
+ RR R RR$@
+ RR R RR$@
+ RRRR RR$@
+ RR R RR$@
+ RR R RR$@
+ RR  RR $@
+        $@@
+0x042F  CYRILLIC CAPITAL LETTER YA
+   RRRRR$@
+  RR  RR$@
+  RR  RR$@
+   RRRRR$@
+   RR RR$@
+  RR  RR$@
+ RR   RR$@
+        $@@
+0x0430  CYRILLIC SMALL LETTER A
+        $@
+        $@
+  RRRR  $@
+     RR $@
+  RRRRR $@
+ RR  RR $@
+  RRRRRR$@
+        $@@
+0x0431  CYRILLIC SMALL LETTER BE
+        $@
+     RR $@
+  RRRR  $@
+ RR     $@
+ RRRRRR $@
+ RR   RR$@
+  RRRRR $@
+        $@@
+0x0432  CYRILLIC SMALL LETTER VE
+        $@
+        $@
+ RRRRR  $@
+ RR  RR $@
+ RRRRRR $@
+ RR   RR$@
+ RRRRRR $@
+        $@@
+0x0433  CYRILLIC SMALL LETTER GHE
+        $@
+        $@
+  RRRRR $@
+      RR$@
+  RRRRR $@
+ RR     $@
+  RRRRRR$@
+        $@@
+0x0434  CYRILLIC SMALL LETTER DE
+        $@
+   RRRR $@
+      RR$@
+   RRRRR$@
+  RR  RR$@
+ RR   RR$@
+  RRRRR $@
+        $@@
+0x0435  CYRILLIC SMALL LETTER IE
+        $@
+        $@
+  RRRRR $@
+ RR   RR$@
+ RRRRRR $@
+ RR     $@
+  RRRRR $@
+        $@@
+0x0436  CYRILLIC SMALL LETTER ZHE
+        $@
+        $@
+ RR R RR$@
+  R R R $@
+   RRR  $@
+  R R R $@
+ RR R RR$@
+        $@@
+0x0437  CYRILLIC SMALL LETTER ZE
+        $@
+        $@
+  RRRRR $@
+ RR   RR$@
+    RRR $@
+ RR   RR$@
+  RRRRR $@
+        $@@
+0x0438  CYRILLIC SMALL LETTER I
+        $@
+        $@
+ RR   RR$@
+ RR  RRR$@
+ RR R RR$@
+ RRR  RR$@
+ RR   RR$@
+        $@@
+0x0439  CYRILLIC SMALL LETTER SHORT I
+        $@
+    RR  $@
+ RR   RR$@
+ RR  RRR$@
+ RR R RR$@
+ RRR  RR$@
+ RR   RR$@
+        $@@
+0x043A  CYRILLIC SMALL LETTER KA
+        $@
+        $@
+ RR   RR$@
+ RR  RR $@
+ RRRRR  $@
+ RR  RR $@
+ RR   RR$@
+        $@@
+0x043B  CYRILLIC SMALL LETTER EL
+        $@
+        $@
+   RRRRR$@
+  RR  RR$@
+  RR  RR$@
+  RR  RR$@
+ RR   RR$@
+        $@@
+0x043C  CYRILLIC SMALL LETTER EM
+        $@
+        $@
+ RR   RR$@
+ RRR RRR$@
+ RR R RR$@
+ RR   RR$@
+ RR   RR$@
+        $@@
+0x043D  CYRILLIC SMALL LETTER EN
+        $@
+        $@
+ RR   RR$@
+ RR   RR$@
+ RRRRRRR$@
+ RR   RR$@
+ RR   RR$@
+        $@@
+0x043E  CYRILLIC SMALL LETTER O
+        $@
+        $@
+  RRRRR $@
+ RR   RR$@
+ RR   RR$@
+ RR   RR$@
+  RRRRR $@
+        $@@
+0x043F  CYRILLIC SMALL LETTER PE
+        $@
+        $@
+ RRRRRR $@
+ RR   RR$@
+ RR   RR$@
+ RR   RR$@
+ RR   RR$@
+        $@@
+0x0440  CYRILLIC SMALL LETTER ER
+        $@
+        $@
+ RRRRRR $@
+ RR   RR$@
+ RRRRRR $@
+ RR     $@
+ RR     $@
+        $@@
+0x0441  CYRILLIC SMALL LETTER ES
+        $@
+        $@
+  RRRRR $@
+ RR     $@
+ RR     $@
+ RR     $@
+  RRRRR $@
+        $@@
+0x0442  CYRILLIC SMALL LETTER TE
+        $@
+        $@
+ RRRRRR $@
+   RR   $@
+   RR   $@
+   RR   $@
+   RR   $@
+        $@@
+0x0443  CYRILLIC SMALL LETTER U
+        $@
+        $@
+ RR   RR$@
+ RR   RR$@
+ RR   RR$@
+  RRRRRR$@
+      RR$@
+  RRRRR $@@
+0x0444  CYRILLIC SMALL LETTER EF
+        $@
+    R   $@
+  RRRRR $@
+ RR R RR$@
+ RR R RR$@
+  RRRRR $@
+    R   $@
+        $@@
+0x0445  CYRILLIC SMALL LETTER HA
+        $@
+        $@
+ RR   RR$@
+  RR RR $@
+   RRR  $@
+  RR RR $@
+ RR   RR$@
+        $@@
+0x0446  CYRILLIC SMALL LETTER TSE
+        $@
+        $@
+ RR   RR$@
+ RR   RR$@
+ RR   RR$@
+ RR  RR $@
+  RRR RR$@
+       R$@@
+0x0447  CYRILLIC SMALL LETTER CHE
+        $@
+        $@
+ RR   RR$@
+ RR   RR$@
+  RRRRRR$@
+      RR$@
+      RR$@
+        $@@
+0x0448  CYRILLIC SMALL LETTER SHA
+        $@
+        $@
+ RR R RR$@
+ RR R RR$@
+ RR R RR$@
+ RR R RR$@
+ RRRRRRR$@
+        $@@
+0x0449  CYRILLIC SMALL LETTER SHCHA
+        $@
+        $@
+ RR R RR$@
+ RR R RR$@
+ RR R RR$@
+ RR R RR$@
+ RRRRRRR$@
+       R$@@
+0x044A  CYRILLIC SMALL LETTER HARD SIGN
+        $@
+        $@
+ RRR    $@
+  RR    $@
+  RRRRR $@
+  RR  RR$@
+  RRRRR $@
+        $@@
+0x044B  CYRILLIC SMALL LETTER YERU
+        $@
+        $@
+ RR   RR$@
+ RR   RR$@
+ RRRR  R$@
+ RR  R R$@
+ RRRR  R$@
+        $@@
+0x044C  CYRILLIC SMALL LETTER SOFT SIGN
+        $@
+        $@
+ RR     $@
+ RR     $@
+ RRRRRR $@
+ RR   RR$@
+ RRRRRR $@
+        $@@
+0x044D  CYRILLIC SMALL LETTER E
+        $@
+        $@
+ RRRRRR $@
+      RR$@
+   RRRRR$@
+      RR$@
+ RRRRRR $@
+        $@@
+0x044E  CYRILLIC SMALL LETTER YU
+        $@
+        $@
+ R  RRR $@
+ R RR RR$@
+ RRRR RR$@
+ R RR RR$@
+ R  RRR $@
+        $@@
+0x044F  CYRILLIC SMALL LETTER YA
+        $@
+        $@
+   RRRRR$@
+  RR  RR$@
+   RRRRR$@
+  RR  RR$@
+ RR   RR$@
+        $@@
+0x0451  CYRILLIC SMALL LETTER IO
+         $@
+         $@
+ RRRRRRRR$@
+         $@
+ RRRR RRR$@
+   RR RR $@
+   RR RR $@
+   RR RR $@@
+0x2219  BULLET OPERATOR
+   RR RR$@
+   RR RR$@
+   RR RR$@
+   RR RR$@
+ RRRRRRR$@
+        $@
+        $@
+        $@@
+0x221A  SQUARE ROOT
+    RR $@
+    RR $@
+ RRRRR $@
+    RR $@
+ RRRRR $@
+       $@
+       $@
+       $@@
+0x2248  ALMOST EQUAL TO
+       $@
+       $@
+       $@
+       $@
+ RRRRR $@
+    RR $@
+    RR $@
+    RR $@@
+0x2264  LESS-THAN OR EQUAL TO
+ RR   $@
+ RR   $@
+ RR   $@
+ RR   $@
+ RRRRR$@
+      $@
+      $@
+      $@@
+0x2265  GREATER-THAN OR EQUAL TO
+    RR   $@
+    RR   $@
+    RR   $@
+    RR   $@
+ RRRRRRRR$@
+         $@
+         $@
+         $@@
+0x2320  TOP HALF INTEGRAL
+        $@
+        $@
+ RRRRRRR$@
+      RR$@
+ RRRR RR$@
+   RR RR$@
+   RR RR$@
+   RR RR$@@
+0x2321  BOTTOM HALF INTEGRAL
+ RR   $@
+ RR   $@
+ RR   $@
+ RR   $@
+ RRRRR$@
+ RR   $@
+ RR   $@
+ RR   $@@
+0x2500  BOX DRAWINGS LIGHT HORIZONTAL
+   RR  $@
+       $@
+   RR  $@
+  RR   $@
+ RR    $@
+ RR  RR$@
+  RRRR $@
+       $@@
+0x2502  BOX DRAWINGS LIGHT VERTICAL
+       $@
+       $@
+       $@
+ RRRRRR$@
+ RR    $@
+ RR    $@
+       $@
+       $@@
+0x250C  BOX DRAWINGS LIGHT DOWN AND RIGHT
+       $@
+       $@
+       $@
+ RRRRRR$@
+     RR$@
+     RR$@
+       $@
+       $@@
+0x2510  BOX DRAWINGS LIGHT DOWN AND LEFT
+ RR    RR$@
+ RR   RR $@
+ RR  RR  $@
+ RR RRRR $@
+   RR  RR$@
+  RR  RR $@
+ RR  RR  $@
+     RRRR$@@
+0x2514  BOX DRAWINGS LIGHT UP AND RIGHT
+ RR    RR$@
+ RR   RR $@
+ RR  RR  $@
+ RR RR RR$@
+   RR RRR$@
+  RR RRRR$@
+ RR  RRRR$@
+       RR$@@
+0x2518  BOX DRAWINGS LIGHT UP AND LEFT
+ RR $@
+ RR $@
+    $@
+ RR $@
+ RR $@
+ RR $@
+ RR $@
+    $@@
+0x251C  BOX DRAWINGS LIGHT VERTICAL AND RIGHT
+         $@
+   RR  RR$@
+  RR  RR $@
+ RR  RR  $@
+  RR  RR $@
+   RR  RR$@
+         $@
+         $@@
+0x2524  BOX DRAWINGS LIGHT VERTICAL AND LEFT
+         $@
+ RR  RR  $@
+  RR  RR $@
+   RR  RR$@
+  RR  RR $@
+ RR  RR  $@
+         $@
+         $@@
+0x252C  BOX DRAWINGS LIGHT DOWN AND HORIZONTAL
+  R R$@
+ R R $@
+  R R$@
+ R R $@
+  R R$@
+ R R $@
+  R R$@
+ R R $@@
+0x2534  BOX DRAWINGS LIGHT UP AND HORIZONTAL
+  R R R R$@
+ R R R R $@
+  R R R R$@
+ R R R R $@
+  R R R R$@
+ R R R R $@
+  R R R R$@
+ R R R R $@@
+0x253C  BOX DRAWINGS LIGHT VERTICAL AND HORIZONTAL
+ RR RR RR$@
+  RRR RRR$@
+ RR RR RR$@
+ RRR RRR $@
+ RR RR RR$@
+  RRR RRR$@
+ RR RR RR$@
+ RRR RRR $@@
+0x2550  BOX DRAWINGS DOUBLE HORIZONTAL
+ RR RR $@
+ RR RR $@
+ RR RRR$@
+ RR    $@
+ RRRRRR$@
+       $@
+       $@
+       $@@
+0x2551  BOX DRAWINGS DOUBLE VERTICAL
+       $@
+       $@
+ RRRRRR$@
+ RR    $@
+ RR RRR$@
+ RR RR $@
+ RR RR $@
+ RR RR $@@
+0x2552  BOX DRAWINGS DOWN SINGLE AND RIGHT DOUBLE
+   RR RR $@
+   RR RR $@
+ RRRR RRR$@
+         $@
+ RRRRRRRR$@
+         $@
+         $@
+         $@@
+0x2553  BOX DRAWINGS DOWN DOUBLE AND RIGHT SINGLE
+ RRRR $@
+ RRRR $@
+ RRRRR$@
+ RR   $@
+ RRRRR$@
+ RRRR $@
+ RRRR $@
+ RRRR $@@
+0x2554  BOX DRAWINGS DOUBLE DOWN AND RIGHT
+         $@
+         $@
+ RRRRRRRR$@
+         $@
+ RRRRRRRR$@
+         $@
+         $@
+         $@@
+0x2555  BOX DRAWINGS DOWN SINGLE AND LEFT DOUBLE
+   RRRR $@
+   RRRR $@
+ RRRRRRR$@
+        $@
+ RRRRRRR$@
+   RRRR $@
+   RRRR $@
+   RRRR $@@
+0x2556  BOX DRAWINGS DOWN DOUBLE AND LEFT SINGLE
+    RR   $@
+    RR   $@
+ RRRRRRRR$@
+         $@
+ RRRRRRRR$@
+         $@
+         $@
+         $@@
+0x2557  BOX DRAWINGS DOUBLE DOWN AND LEFT
+   RR RR $@
+   RR RR $@
+   RR RR $@
+   RR RR $@
+ RRRRRRRR$@
+         $@
+         $@
+         $@@
+0x2558  BOX DRAWINGS UP SINGLE AND RIGHT DOUBLE
+         $@
+         $@
+ RRRRRRRR$@
+         $@
+ RRRRRRRR$@
+    RR   $@
+    RR   $@
+    RR   $@@
+0x2559  BOX DRAWINGS UP DOUBLE AND RIGHT SINGLE
+         $@
+         $@
+         $@
+         $@
+ RRRRRRRR$@
+   RR RR $@
+   RR RR $@
+   RR RR $@@
+0x255A  BOX DRAWINGS DOUBLE UP AND RIGHT
+ RR RR $@
+ RR RR $@
+ RR RR $@
+ RR RR $@
+ RRRRRR$@
+       $@
+       $@
+       $@@
+0x255B  BOX DRAWINGS UP SINGLE AND LEFT DOUBLE
+ RR   $@
+ RR   $@
+ RRRRR$@
+ RR   $@
+ RRRRR$@
+      $@
+      $@
+      $@@
+0x255C  BOX DRAWINGS UP DOUBLE AND LEFT SINGLE
+      $@
+      $@
+ RRRRR$@
+ RR   $@
+ RRRRR$@
+ RR   $@
+ RR   $@
+ RR   $@@
+0x255D  BOX DRAWINGS DOUBLE UP AND LEFT
+       $@
+       $@
+       $@
+       $@
+ RRRRRR$@
+ RR RR $@
+ RR RR $@
+ RR RR $@@
+0x255E  BOX DRAWINGS VERTICAL SINGLE AND RIGHT DOUBLE
+   RR RR $@
+   RR RR $@
+   RR RR $@
+   RR RR $@
+ RRRRRRRR$@
+   RR RR $@
+   RR RR $@
+   RR RR $@@
+0x255F  BOX DRAWINGS VERTICAL DOUBLE AND RIGHT SINGLE
+    RR   $@
+    RR   $@
+ RRRRRRRR$@
+    RR   $@
+ RRRRRRRR$@
+    RR   $@
+    RR   $@
+    RR   $@@
+0x2560  BOX DRAWINGS DOUBLE VERTICAL AND RIGHT
+    RR $@
+    RR $@
+    RR $@
+    RR $@
+ RRRRR $@
+       $@
+       $@
+       $@@
+0x2561  BOX DRAWINGS VERTICAL SINGLE AND LEFT DOUBLE
+      $@
+      $@
+      $@
+      $@
+ RRRRR$@
+ RR   $@
+ RR   $@
+ RR   $@@
+0x2562  BOX DRAWINGS VERTICAL DOUBLE AND LEFT SINGLE
+         $@
+         $@
+         $@
+         $@
+ RRRRRRRR$@
+ RRRRRRRR$@
+ RRRRRRRR$@
+ RRRRRRRR$@@
+0x2563  BOX DRAWINGS DOUBLE VERTICAL AND LEFT
+ RRRR  $@
+ RRRR  $@
+ RRRR  $@
+ RRRR  $@
+ RRRR  $@
+ RRRR  $@
+ RRRR  $@
+ RRRR  $@@
+0x2564  BOX DRAWINGS DOWN SINGLE AND HORIZONTAL DOUBLE
+ RRRR$@
+ RRRR$@
+ RRRR$@
+ RRRR$@
+ RRRR$@
+ RRRR$@
+ RRRR$@
+ RRRR$@@
+0x2565  BOX DRAWINGS DOWN DOUBLE AND HORIZONTAL SINGLE
+ RRRRRRRR$@
+ RRRRRRRR$@
+ RRRRRRRR$@
+ RRRRRRRR$@
+         $@
+         $@
+         $@
+         $@@
+0x2566  BOX DRAWINGS DOUBLE DOWN AND HORIZONTAL
+  RRR  $@
+ RR RR $@
+ RR RR $@
+  RRR  $@
+       $@
+       $@
+       $@
+       $@@
+0x2567  BOX DRAWINGS UP SINGLE AND HORIZONTAL DOUBLE
+    $@
+    $@
+    $@
+ RR $@
+ RR $@
+    $@
+    $@
+    $@@
+0x2568  BOX DRAWINGS UP DOUBLE AND HORIZONTAL SINGLE
+    $@
+    $@
+    $@
+    $@
+ RR $@
+    $@
+    $@
+    $@@
+0x2569  BOX DRAWINGS DOUBLE UP AND HORIZONTAL
+     RRRR$@
+     RR  $@
+     RR  $@
+     RR  $@
+ RRR RR  $@
+  RR RR  $@
+   RRRR  $@
+    RRR  $@@
+0x256A  BOX DRAWINGS VERTICAL SINGLE AND HORIZONTAL DOUBLE
+ RRRR  $@
+ RR RR $@
+ RR RR $@
+ RR RR $@
+ RR RR $@
+       $@
+       $@
+       $@@
+0x256B  BOX DRAWINGS VERTICAL DOUBLE AND HORIZONTAL SINGLE
+ RRR  $@
+   RR $@
+  RR  $@
+ RR   $@
+ RRRR $@
+      $@
+      $@
+      $@@
+0x256C  BOX DRAWINGS DOUBLE VERTICAL AND HORIZONTAL
+      $@
+      $@
+ RRRR $@
+ RRRR $@
+ RRRR $@
+ RRRR $@
+      $@
+      $@@
+0x2580  UPPER HALF BLOCK
+ RR $@
+ RR $@
+ RR $@
+ RR $@
+ RR $@
+ RR $@
+ RR $@
+ RR $@@
+0x2584  LOWER HALF BLOCK
+    RR $@
+    RR $@
+    RR $@
+    RR $@
+ RRRRR $@
+    RR $@
+    RR $@
+    RR $@@
+0x2588  FULL BLOCK
+    RR $@
+    RR $@
+ RRRRR $@
+    RR $@
+ RRRRR $@
+    RR $@
+    RR $@
+    RR $@@
+0x258C  LEFT HALF BLOCK
+   RRRR$@
+   RRRR$@
+   RRRR$@
+   RRRR$@
+ RRRRRR$@
+   RRRR$@
+   RRRR$@
+   RRRR$@@
+0x2590  RIGHT HALF BLOCK
+        $@
+        $@
+        $@
+        $@
+ RRRRRRR$@
+   RR RR$@
+   RR RR$@
+   RR RR$@@
+0x2591  LIGHT SHADE
+       $@
+       $@
+ RRRRR $@
+    RR $@
+ RRRRR $@
+    RR $@
+    RR $@
+    RR $@@
+0x2592  MEDIUM SHADE
+   RRRR$@
+   RRRR$@
+ RRRRRR$@
+     RR$@
+ RRRRRR$@
+   RRRR$@
+   RRRR$@
+   RRRR$@@
+0x2593  DARK SHADE
+ RRRR$@
+ RRRR$@
+ RRRR$@
+ RRRR$@
+ RRRR$@
+ RRRR$@
+ RRRR$@
+ RRRR$@@
+0x25A0  BLACK SQUARE
+   RR RR$@
+   RR RR$@
+ RRRR RR$@
+      RR$@
+ RRRRRRR$@
+        $@
+        $@
+        $@@
+0x30A2  A
+ RRRRRRRRRR$@
+       RRR $@
+      R    $@
+     R     $@
+    R      $@
+   R       $@
+  R        $@
+           $@@
+0x30A4  I
+       RR$@
+     RR  $@
+   RR R  $@
+ RR   R  $@
+      R  $@
+      R  $@
+      R  $@
+         $@@
+0x30A6  U
+     R     $@
+ RRRRRRRRRR$@
+ R        R$@
+        RR $@
+      RR   $@
+    RR     $@
+  RR       $@
+           $@@
+0x30A8  E
+           $@
+   RRRRRRR $@
+      R    $@
+      R    $@
+      R    $@
+      R    $@
+ RRRRRRRRRR$@
+           $@@
+0x30AA  O
+        R  $@
+ RRRRRRRRRR$@
+       RR  $@
+     RR R  $@
+   RR   R  $@
+ RR    RR  $@
+        R  $@
+           $@@
+0x30AB  KA
+      R    $@
+ RRRRRRRRRR$@
+     R    R$@
+     R    R$@
+    R     R$@
+   R   R R $@
+  R     R  $@
+           $@@
+0x30AD  KI
+ R R    $@
+  R   R $@
+ R R R  $@
+    R   $@
+   R R  $@
+  R   R $@
+       R$@
+        $@@
+0x30AF  KU
+    R      $@
+   RRRRRRRR$@
+  R       R$@
+ R      RR $@
+      RR   $@
+    RR     $@
+  RR       $@
+           $@@
+0x30B1  KE
+    R      $@
+   RRRRRRRR$@
+  R    R   $@
+ R    R    $@
+     R     $@
+    R      $@
+   R       $@
+           $@@
+0x30B3  KO
+           $@
+ RRRRRRRRRR$@
+          R$@
+          R$@
+          R$@
+          R$@
+ RRRRRRRRR $@
+           $@@
+0x30B5  SA
+   R    R  $@
+ RRRRRRRRRR$@
+   R    R  $@
+        R  $@
+       R   $@
+      R    $@
+    R      $@
+           $@@
+0x30B7  SI (SHI)
+   R       R$@
+ R  R     R $@
+  R      R  $@
+       RR   $@
+     RR     $@
+   RR       $@
+ RR         $@
+            $@@
+0x30B9  SU
+ RRRRRRRR$@
+        R$@
+       R $@
+     RR  $@
+   RR R  $@
+  RR   R $@
+ R      R$@
+         $@@
+0x30BB  SE
+   R       $@
+   R       $@
+ RRRRRRRRRR$@
+   R     R $@
+   R       $@
+   R       $@
+    RRRRRR $@
+           $@@
+0x30BD  SO
+ R       R$@
+ R       R$@
+        R $@
+       R  $@
+     RR   $@
+   RR     $@
+ RR       $@
+          $@@
+0x30BF  TA
+    R     $@
+   RRRRRRR$@
+  R     R $@
+ R R   R  $@
+    RRR   $@
+   RR     $@
+ RR       $@
+          $@@
+0x30C1  TI (CHI)
+        RR $@
+  RRRRRR   $@
+      R    $@
+ RRRRRRRRRR$@
+      R    $@
+      R    $@
+    RR     $@
+           $@@
+0x30C4  TU (TSU)
+ R R     R$@
+ R R     R$@
+        R $@
+       R  $@
+     RR   $@
+   RR     $@
+ RR       $@
+          $@@
+0x30C6  TE
+   RRRRRR  $@
+           $@
+ RRRRRRRRRR$@
+      R    $@
+      R    $@
+     R     $@
+   RR      $@
+           $@@
+0x30C8  TO
+ R   $@
+ R   $@
+ RR  $@
+ R R $@
+ R  R$@
+ R   $@
+ R   $@
+     $@@
+0x30CA  NA
+      R    $@
+ RRRRRRRRRR$@
+      R    $@
+      R    $@
+     R     $@
+    R      $@
+  RR       $@
+           $@@
+0x30CB  NI
+           $@
+           $@
+   RRRRRR  $@
+           $@
+           $@
+ RRRRRRRRRR$@
+           $@
+           $@@
+0x30CC  NU
+ RRRRRRRRRR$@
+          R$@
+    R    R $@
+     R RR  $@
+     RR    $@
+   RR  R   $@
+ RR     R  $@
+           $@@
+0x30CD  NE
+      R    $@
+ RRRRRRRRRR$@
+         R $@
+      RRR  $@
+   RRRRRR  $@
+ RR   R  RR$@
+      R    $@
+           $@@
+0x30CE  NO
+         R$@
+         R$@
+        R $@
+       R  $@
+     RR   $@
+   RR     $@
+ RR       $@
+          $@@
+0x30CF  HA
+          $@
+          $@
+    R  R  $@
+   R    R $@
+  R      R$@
+ R        $@
+          $@
+          $@@
+0x30D2  HI
+ R       $@
+ R   RRR $@
+ RRRR    $@
+ R       $@
+ R       $@
+ R       $@
+  RRRRRRR$@
+         $@@
+0x30D5  HU (FU)
+ RRRRRRRR$@
+        R$@
+        R$@
+       R $@
+     RR  $@
+   RR    $@
+ RR      $@
+         $@@
+0x30D8  HE
+           $@
+           $@
+   RR      $@
+  R  RR    $@
+ R     RR  $@
+         RR$@
+           $@
+           $@@
+0x30DB  HO
+      R    $@
+ RRRRRRRRRR$@
+      R    $@
+   R  R R  $@
+  R   R  R $@
+ R   RR   R$@
+      R    $@
+           $@@
+0x30DE  MA
+           $@
+ RRRRRRRRRR$@
+         R $@
+        R  $@
+     R R   $@
+      R    $@
+       R   $@
+           $@@
+0x30DF  MI
+ RRRR  $@
+     RR$@
+ RRR   $@
+    RRR$@
+       $@
+ RRR   $@
+    RRR$@
+       $@@
+0x30E0  MU
+      R    $@
+     R     $@
+    R      $@
+   R       $@
+  R     R  $@
+ RRRRRRRRR $@
+          R$@
+           $@@
+0x30E1  ME
+         R$@
+        R $@
+   R   R  $@
+    R R   $@
+     R    $@
+   RR R   $@
+ RR    R  $@
+          $@@
+0x30E2  MO
+   RRRRRR  $@
+     R     $@
+ RRRRRRRRRR$@
+     R     $@
+     R     $@
+     R     $@
+      RRRR $@
+           $@@
+0x30E4  YA
+ R     RR  $@
+  R  RR R  $@
+  RRR      $@
+ R  R      $@
+     R     $@
+      R    $@
+       R   $@
+           $@@
+0x30E6  YU
+           $@
+   RRRRRR  $@
+        R  $@
+        R  $@
+        R  $@
+ RRRRRRRRRR$@
+           $@
+           $@@
+0x30E8  YO
+           $@
+   RRRRRR  $@
+       R   $@
+      R    $@
+      R    $@
+ RRRRRRRRRR$@
+           $@
+           $@@
+0x30E9  RA
+   RRRRRR  $@
+           $@
+ RRRRRRRRRR$@
+ R        R$@
+        RR $@
+      RR   $@
+    RR     $@
+           $@@
+0x30EA  RI
+ R   R$@
+ R   R$@
+ R   R$@
+ R   R$@
+    R $@
+   R  $@
+ RR   $@
+      $@@
+0x30EB  RU
+    R R    $@
+    R R    $@
+    R R    $@
+    R R   R$@
+   R  R  R $@
+  R   R R  $@
+ R    RR   $@
+           $@@
+0x30EC  RE
+ R       $@
+ R       $@
+ R       $@
+ R     RR$@
+ R   RR  $@
+ R RR    $@
+ RR      $@
+         $@@
+0x30ED  RO
+          $@
+ RRRRRRRRR$@
+ R       R$@
+ R       R$@
+ R       R$@
+ RRRRRRRRR$@
+          $@
+          $@@
+0x30EF  WA
+ RRRRRRRRRR$@
+ R        R$@
+         R $@
+        R  $@
+       R   $@
+     RR    $@
+   RR      $@
+           $@@
+0x30F0  WI
+      R    $@
+   RRRRRRR $@
+    R R    $@
+    R R    $@
+ RRRRRRRRRR$@
+      R    $@
+      R    $@
+           $@@
+0x30F1  WE
+ RRRRRRRRR$@
+         R$@
+         R$@
+ RRRRRRRR $@
+        R $@
+        R $@
+ RRRRRRRR $@
+          $@@
+0x30F2  WO
+ RRRRRRRRRR$@
+          R$@
+         R $@
+ RRRRRRRR  $@
+     RR    $@
+   RR      $@
+ RR        $@
+           $@@
+0x30F3  N
+         R$@
+ R       R$@
+  R     R $@
+       R  $@
+     RR   $@
+   RR     $@
+ RR       $@
+          $@@
+-0x0004  KATAMAP
+                                                    @
+a-A i-B u-C e-D o-E ka-F ki-G ku-H ke-I ko-J        @
+sa-K shi-L su-M se-N so-O ta-P chi-Q tsu-R te-S to-T@
+na-U ni-V nu-W ne-X no-Y ha-Z hi-a fu-b he-c ho-d   @
+ma-e mi-f mu-g me-h mo-i ya-j yu-k we-l yo-m        @
+ra-n ri-o ru-p re-q ro-r wa-s wi-t wo-u             @
+n-v                                                 @
+                                                    @@
+-0x0006  MOSCOWMAP
+a-a, b-b, v-v, g-g, d-d, e-e, zh-j, z-z, i-i@
+short i->, k-k, l-l, m-m, n-n, o-o, p-p, r-r@
+s-s, t-t, u-u, f-f, kh-h, ts-q, ch-c, sh-w  @
+shch-x, hard-\, yeru-|, soft-/, reverse e-~ @
+yu-`, ya-y                                  @
+Capitals use Latin capital letters, except: @
+Reverse E-<, Yu-@                           @
+No caps for short i, hard, yeru, soft.      @@
